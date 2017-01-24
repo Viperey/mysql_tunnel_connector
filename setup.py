@@ -10,4 +10,7 @@ setup(name='MysqlTunnelConnector',
       author_email='viperey@gmail.com',
       url='http://www.python.org/sigs/distutils-sig/',
       packages=find_packages(),
+      install_requires=[
+            "sshtunnel", "mysqlclient"
+      ]
 )
