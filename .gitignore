@@ -1,1 +1,4 @@
 .idea/
+dist/
+MysqlTunnelConnector.egg-info/
+build/
